@@ -1,6 +1,14 @@
 ---
-layout: default
-title: "Home"
+layout: home
+title: Home
 ---
 
-Welcome to my blog! Here you'll find my latest posts and updates.
+## Welcome!
+
+I'm Shadrack, an aspiring IT expert and developer. Here you'll find:
+
+- My latest blog posts
+- Personal projects
+- Resources for students and tech enthusiasts
+
+[View my projects](projects.md)
